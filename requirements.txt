@@ -1,0 +1,2 @@
+# Requires: circular-stillness
+# (Not available on PyPI)
